@@ -48,7 +48,7 @@
 ## 🤝 Let's Collaborate
 - 💼 [LinkedIn](https://www.linkedin.com/in/gregorio-bolivar/)
 - 🌐 [Portfolio](https://ironsofts.com/)
-- 📫 **Email:** [gbolivar@ironsofts.com](mailto:gbolivar@ironsofts.com)
+- 📫 **Email:** [elalconxvii@gmail.com](mailto:elalconxvii@gmail.com)
 
 ---
 

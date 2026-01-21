@@ -28,12 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbolivar&layout=compact&theme=radical" alt="Top Languages" height="180">
 </div>
 
-## 📈 GitHub statistics of my collaboration with Ironsofts
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ironsofts&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironsofts&layout=compact&theme=radical" alt="Top Languages" height="180">
-</div>
-
 ---
 
 ## 🎓 Certifications
